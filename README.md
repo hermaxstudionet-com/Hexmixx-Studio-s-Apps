@@ -33,5 +33,5 @@ We build our applications using modern tools and technologies:
 ## 🤝 Contact & Support
 
 If you have any questions, bug reports, or feedback, feel free to reach out to us:
-- **Email:** your-email@example.com
+- **Email:** hermaxstudio.net@gmail.com
 - **Website:** [Hexmixx Studio](https://your-website.com)
